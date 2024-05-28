@@ -58,6 +58,8 @@ As I mentioned before the goal of this project is to carry out an employee reten
 3.	What age groups constitute the segment of employees departing from the company?
 4.	How does attrition vary based on the number of years employees have spent at the company?
 5.	How does attrition differ across various income groups within the organization?
+   
+
 
 
 1.	What is the current rate of employee departures observed within the organization due to voluntary reasons?
