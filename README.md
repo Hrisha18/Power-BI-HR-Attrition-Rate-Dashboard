@@ -59,10 +59,12 @@ As I mentioned before the goal of this project is to carry out an employee reten
 4.	How does attrition vary based on the number of years employees have spent at the company?
 5.	How does attrition differ across various income groups within the organization?
    
-
+                                                                                              . . .
+   
 
 
 1.	What is the current rate of employee departures observed within the organization due to voluntary reasons?
+	
 The organization has a departure rate of 16.2%. This means that 229 employees left voluntarily during the studied period. The average salary of departing employees is $6.52k, which is important to understand how attrition affects our workforce and finances. The average age of the departing employees is 36 years.
 
 ![image](https://github.com/Hrisha18/Power-BI-HR-Attrition-Rate-Dashboard/assets/171027596/97025100-8b62-4b9f-b69f-56aaeefba480)
@@ -70,6 +72,7 @@ The organization has a departure rate of 16.2%. This means that 229 employees le
 
                                . . .
 2.	From which academic fields did the departing individuals obtain their educational qualifications?
+	
 I picked a donut chart to illustrate the diversity in employees’ educational backgrounds because it makes it easy to distinguish each group separately. Upon analysis, it’s apparent that the largest proportion of departing individuals, totaling 38.43%, have backgrounds in Life Science. Following closely are individuals from Medical backgrounds, making up the next significant portion. Interestingly, a notable percentage of departures come from individuals with marketing qualifications. Lastly, those with technical degrees represent the smallest fraction in the chart, accounting for only 13.97% of the total. 
 
 
@@ -81,6 +84,7 @@ I picked a donut chart to illustrate the diversity in employees’ educational b
 The high number of departures among those with Life Science backgrounds shows the need for focused attention and strategic efforts to reduce attrition in this group. Conversely, the lower departure rate among employees with technical degrees suggests there may be effective retention factors at play. Understanding these trends provides the company with insights to develop targeted retention strategies, particularly for individuals with Life Science and medical backgrounds.
                                             . . .
 3. What age groups constitute the segment of employees departing from the company?
+
 The bar graph shows that the highest number of employees leaving is in the age group of 26 to 35 years old, with a total of 111 individuals. Among them, 68 are males, as shown in the chart. Moving to the next age category of 36 to 45 years old, there are 41 departures, which is notably lower compared to the 26–35 age group. On the other hand, the age group of 55 and above has the fewest departures when compared to the other analyzed segments.
 
 ![image](https://github.com/Hrisha18/Power-BI-HR-Attrition-Rate-Dashboard/assets/171027596/e9361ea2-c62d-492d-9a15-da6e9830cd87)
